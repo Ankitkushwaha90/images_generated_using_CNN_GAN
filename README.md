@@ -29,7 +29,6 @@ pip install torch torchvision matplotlib tqdm
 
 **How to run or test the project?**
 
-```markdown
 ## Usage
 
 1. Place your images in the `./images` folder inside subfolders.
